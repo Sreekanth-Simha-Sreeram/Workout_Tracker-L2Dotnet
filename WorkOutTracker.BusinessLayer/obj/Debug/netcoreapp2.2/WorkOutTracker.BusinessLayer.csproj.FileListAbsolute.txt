@@ -1,0 +1,12 @@
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.deps.json
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.BusinessLayer\obj\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.pdb

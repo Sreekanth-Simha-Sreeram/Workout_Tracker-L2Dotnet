@@ -1,0 +1,8 @@
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.deps.json
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
