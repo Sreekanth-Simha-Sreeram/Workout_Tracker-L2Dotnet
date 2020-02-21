@@ -10,7 +10,6 @@ using WorkOutTracker.Entities;
 
 namespace TaskManager.DataLayer.NHibernate
 {
-{
     public class NHibernateMapperSession : IMapperSession
     {
         private readonly ISession _session;
